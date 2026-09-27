@@ -28,7 +28,7 @@ src/
 
    ```bash
    cp .env.example .env
-   # edit VITE_API_BASE_URL if your API isn't on http://localhost:8000
+   # edit VITE_API_BASE_URL if your API isn't on http://localhost:8001
    ```
 
 2. Install and run:
